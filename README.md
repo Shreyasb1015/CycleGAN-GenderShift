@@ -6,9 +6,9 @@ This project implements a CycleGAN model in PyTorch to transform facial images f
 
 Here are some of the results of my model on test-dataset:
 
-![Image-1](random6032.png)
-![Image-2](random7720.png)
-![Image-3](random8119.png)
-![Image-4](random9410.png)
+![Image-1](Images/random219.png)
+![Image-2](Images/random8200.png)
+![Image-3](Images/random9414.png)
+![Image-4](Images/random9983.png)
 
 
